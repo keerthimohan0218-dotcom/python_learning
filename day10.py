@@ -45,7 +45,7 @@
 # print()
 # #iterate from 3rd element 
 # #iterate in steps of 2
-
+ 
 
 # #tricky
 # l = [1, 2, 3, 4, 5, 6]
