@@ -32,6 +32,7 @@ print(s)
 #pop
 s = {1,4,3,2,5,6,7,9}
 print(s)
+print()
 a = s.pop() 
 print(a, s)
 b = s.pop() 
