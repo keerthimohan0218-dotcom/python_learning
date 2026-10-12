@@ -88,10 +88,11 @@
 # print(l.index(1, 3, 5))
 # print(l.index(9))
 
-# # count() 
-# l = [1, 2, 1, 4, 1, 6, 7, 1]
-# print(l.count(1))
-# print(l.count(9))
+# count() 
+l = [1, 2, 1, 4, 1, 6, 7, 1]
+print(l.count(1))
+print(l.count(9))
+print()
 
 
 # # index() 
