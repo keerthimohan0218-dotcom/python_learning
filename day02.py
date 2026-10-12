@@ -25,7 +25,7 @@ print(c, type(c))  #0.1234 <class 'float'>
 #Complex
 a = 3 + 4j
 b = 0j
-c = j7
+# c = j7
 print(a, type(a), type(a.real), type(a.imag)) #(3+4j) <class  'class  'complex'> <class  'class 'float'> <class 'float'>
 print(b, type(b), type(a.imag))               # 0j <class  'complex'> <class 'float'>
 print(c)                                      #7j
