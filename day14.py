@@ -148,7 +148,7 @@
 #         print(chr(c+64), end=" ")
 #     print()
 # print()
-
+print()
 #      A 
 #     A B 
 #    A B C 
