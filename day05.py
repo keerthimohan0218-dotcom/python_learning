@@ -106,12 +106,13 @@
 # print(b.islower())   #false
 # print(c.islower())   #false
 
-# #split
-# s = 'abaca'
-# print(s.split('a'))   #['', 'b', 'c', '']
-# s = '   '
-# print(s.split(' '))   #[]
-# print(s.split())       #[]
+#split
+s = 'abaca'
+print(s.split('a'))   #['', 'b', 'c', '']
+s = '   '
+print(s.split(' '))   #[]
+print(s.split())       #[]
+print()
   
 # # #join
 # a = [1,2,3,4]
