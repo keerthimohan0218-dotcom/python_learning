@@ -184,10 +184,11 @@
 # print(3 in e)
 # print(4 in f)
 
-# #Walrus operator
-# # print(a = 4)
-# print(a := 4)
-# print(a)
+#Walrus operator
+# print(a = 4)
+print(a := 4)
+print(a)
+print()
 
 # #ternary operator 
 # a = 5 if 10 > 20 else 6 
