@@ -23,7 +23,7 @@
 #     print(x, end=' ')
 #     x //= 2 
 # print()    #10,5,2,1
-
+print()
 #else 
 # x = 1 
 # while x < 5:
