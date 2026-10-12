@@ -22,7 +22,8 @@ def f1(a):
     a = 100
 a = 4
 f1(a)
-print(a)      
+print(a)  
+print()    
 
 #call by reference
 def f2(a):
