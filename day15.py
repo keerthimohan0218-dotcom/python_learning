@@ -17,6 +17,7 @@
 # print(y) #none
 # print(z)  #none
 # print()
+print()
 
 # # #Type of arguments
 # def detail(name, age, rollno):
