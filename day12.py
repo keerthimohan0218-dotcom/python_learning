@@ -24,6 +24,7 @@
 # for i in range(1, 31):
 #     if i % 5 == 0:
 #         print(i, end=" ")
+# print()
 
 #5. print numbers divisible by both 5 and 7 from 1 to 100 in one line
 
