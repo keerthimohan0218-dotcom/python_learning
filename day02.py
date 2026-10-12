@@ -3,7 +3,7 @@
 n = 123
 print(n)         #123
 print(type(n))   #<class 'int'>
-a = 0123        
+# a = 0123        
 a = 0b1011
 b = 0o761
 c = 0xF109
@@ -15,7 +15,7 @@ print(c)         #value
 print(type(c))   #<class 'int'>
 
 #Float
-a = 12.34
+a = 12.345
 b = 12.34e2
 c = 12.34e-2
 print(a, type(a))  #12.35 <class 'float'>
