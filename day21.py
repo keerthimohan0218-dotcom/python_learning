@@ -25,7 +25,7 @@ else:
         print("PINs created successfully")
 
         while True:
-            print("\n1. Balance Enquiry")
+            print("1. Balance Enquiry")
             print("2. Amount Deposit")
             print("3. Amount Withdraw")
             print("4. Exit")
